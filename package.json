@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@sentry/browser": "^5.5.0",
-    "@sentry/core": "^5.5.0",
+    "@sentry/core": "github:piotrgorecki/sentry-javascript",
     "@sentry/integrations": "^5.5.0",
     "@sentry/types": "^5.5.0",
     "@sentry/utils": "^5.5.0",
